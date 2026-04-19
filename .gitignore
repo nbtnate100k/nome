@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+admins.json
+stock.json
+pending_stock.json
+claims.json

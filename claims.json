@@ -1,0 +1,40 @@
+{
+  "7987306556": {
+    "last_claim_time": "2026-01-01T23:20:28.444939",
+    "claim_data": {
+      "card_number": "4145670692391812",
+      "expiry": "01/29",
+      "cvv": "651",
+      "name": "Jonica Somaguera",
+      "address": "5541 Windemere Cir",
+      "city_state_zip": "Trinity, NO  37370",
+      "country": "United States",
+      "full_text": "4145670692391812 01/29 651\nJonica Somaguera\n5541 Windemere Cir\nTrinity, NO  37370\nUnited States",
+      "formatted": "4145670692391812 01/29 651 Jonica Somaguera 5541 Windemere Cir Trinity, NO  37370 United States"
+    },
+    "user_name": "Rico Scoring pluxo.net",
+    "username": "rico_scores",
+    "total_claims": 1,
+    "has_pluxo": true,
+    "claimed_at": "2026-01-01T23:20:28.444939"
+  },
+  "7173346586": {
+    "last_claim_time": "2026-01-01T23:21:20.972833",
+    "claim_data": {
+      "card_number": "4145670692391812",
+      "expiry": "01/29",
+      "cvv": "651",
+      "name": "Jonica Somaguera",
+      "address": "5541 Windemere Cir",
+      "city_state_zip": "Trinity, NO  37370",
+      "country": "United States",
+      "full_text": "4145670692391812 01/29 651\nJonica Somaguera\n5541 Windemere Cir\nTrinity, NO  37370\nUnited States",
+      "formatted": "4145670692391812 01/29 651 Jonica Somaguera 5541 Windemere Cir Trinity, NO  37370 United States"
+    },
+    "user_name": "GetToTheMoney JR \ud83c\udf6a Pluxo.net",
+    "username": "Xeeznk",
+    "total_claims": 1,
+    "has_pluxo": true,
+    "claimed_at": "2026-01-01T23:21:20.972833"
+  }
+}
